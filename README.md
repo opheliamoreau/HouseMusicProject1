@@ -65,7 +65,8 @@ def intro(start,end) :
 
 
 ## Project Status
-Project is: _in progress_ / _complete_ / _no longer being worked on_. If you are no longer working on it, provide reasons why.
+Project is: completed and no longer being worked on. 
+I have finished making a short demo of a house music composed piece, with an intro, verse/bridge and chorus. This gives an overall idea of a potential lengthened version of the composition.
 
 
 ## Room for Improvement
@@ -82,9 +83,8 @@ To do:
 
 ## Acknowledgements
 Give credit here.
-- This project was inspired by...
+- This project was inspired by house music artists such as Avicii and David Guetta.
 - This project was based on [this tutorial](https://www.example.com).
-- Many thanks to...
 
 
 ## Contact
