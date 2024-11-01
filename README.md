@@ -51,10 +51,17 @@ Proceed to describe how to install / setup one's local environment / get started
 
 
 ## Usage
-How does one go about using it?
-Provide various use cases and code examples here.
+Examples of code used for my HouseMusicProject1 in Earsketch
 
-`write-your-code-here`
+`    #calling function of chorus to play and adding the start and end times of the piece
+chorus (21,37)
+        #printing the message of chorus of the coded song 
+print ("The chorus of this song is the climax where listeners can feel the entire experience of house music.")`
+
+`    #creating function for intro so it can be called later when it is supposed to be played
+def intro(start,end) : 
+    fitMedia (YG_TECHNO_FILTERED_LOOP_1, 1, 1, 5)
+    fitMedia (Y39_BASS_1, 10, 2, 5)`
 
 
 ## Project Status
