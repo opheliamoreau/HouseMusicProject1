@@ -4,7 +4,7 @@ My project is a Python coded musical composition using the platform Earsketch. T
 
 ## Table of Contents
 * [General Info](#general-information)
-* [Technologies Used](#technologies-used)
+* [Resources Used](#resources-used)
 * [Features](#features)
 * [Screenshots](#screenshots)
 * [Setup](#setup)
@@ -23,7 +23,7 @@ My project is a Python coded musical composition using the platform Earsketch. T
 
 
 
-## Technologies Used
+## Resources Used
 - Platform: Earsketch Website, code libraries
 - Materials: access to computer, WiFi
 
