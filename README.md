@@ -82,9 +82,8 @@ To do:
 
 
 ## Acknowledgements
-Give credit here.
 - This project was inspired by house music artists such as Avicii and David Guetta.
-- This project was based on [this tutorial](https://www.example.com).
+- This project was based on our Week X tutorial.
 
 
 ## Contact
