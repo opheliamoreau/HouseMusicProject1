@@ -24,8 +24,12 @@ My project is a Python coded musical composition using the platform Earsketch. T
 
 
 ## Resources Used
-- Platform: Earsketch Website, code libraries
-- Materials: access to computer, WiFi
+- Earsketch Website
+- Access to a computer and WiFi
+- Sound and code libraries (provided by Earsketch)
+- Basic understanding of Python 
+- Basic understanding of music theory (rhythm, melody) to create a complex and engaging prototype
+- Earsketch tutorials to learn how to use the platform effectively, and making use of the Musical Coding Resource page on Canvas. 
 
 
 ## Features
