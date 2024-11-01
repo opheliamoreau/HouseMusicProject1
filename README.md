@@ -40,7 +40,7 @@ List the ready features here:
 
 
 ## Screenshots
-![Example screenshot](./img/screenshot.png)
+![Example screenshot](file:///var/folders/mv/fbjzwfbx5nd61drx09gj08j80000gn/T/TemporaryItems/NSIRD_screencaptureui_aLIXiL/Screen%20Shot%202024-11-01%20at%2010.36.22%20pm.png)
 <!-- If you have screenshots you'd like to share, include them here. -->
 
 
