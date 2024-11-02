@@ -54,18 +54,25 @@ Proceed to describe how to install / setup one's local environment / get started
 Examples of code used for my HouseMusicProject1 in Earsketch
 
 `#calling function of chorus to play and adding the start and end times of the piece 
+
 chorus (21,37)
+      
         #printing the message of chorus of the coded song 
+
 print ("The chorus of this song is the climax where listeners can feel the entire experience of house music.")`
 
 `#creating function for intro so it can be called later when it is supposed to be played 
+
 def intro(start,end) : 
+ 
     fitMedia (YG_TECHNO_FILTERED_LOOP_1, 1, 1, 5)
+ 
     fitMedia (Y39_BASS_1, 10, 2, 5)`
 
 
 ## Project Status
 Project is: completed and no longer being worked on. 
+
 I have finished making a short demo of a house music composed piece, with an intro, verse/bridge and chorus. This gives an overall idea of a potential lengthened version of the composition.
 
 
@@ -88,4 +95,5 @@ To do:
 
 ## Contact
 Created by Ophelia Moreau, 14264232.
+
 ophelia.c.moreau@student.uts.edu.au
