@@ -45,10 +45,7 @@ Earsketch features used:
 
 
 ## Setup
-What are the project requirements/dependencies? Where are they listed? A requirements.txt or a Pipfile.lock file perhaps? Where is it located?
-
-Proceed to describe how to install / setup one's local environment / get started with the project.
-
+To play my coded music composition on Earsketch, click on the green button 'run' in the Code Editor section of the platform to run the script. Then click the green 'play button' in the Digital Audio Workstation section of the platform to listen to the final product.
 
 ## Usage
 Examples of code used for my HouseMusicProject1 in Earsketch
@@ -71,15 +68,13 @@ I have finished making a short demo of a house music composed piece, with an int
 
 
 ## Room for Improvement
-Include areas you believe need improvement / could be improved. Also add TODOs for future development.
-
 Room for improvement:
-- Improvement to be done 1
-- Improvement to be done 2
+- Work on further including unique code
+- Aim to make the code even more complex
 
 To do:
-- Feature to be added 1
-- Feature to be added 2
+- Develop a deeper knowledge of Python
+- Continue trial and error with code
 
 
 ## Acknowledgements
