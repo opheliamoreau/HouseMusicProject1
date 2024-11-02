@@ -83,7 +83,7 @@ To do:
 
 ## Acknowledgements
 - This project was inspired by house music artists such as Avicii and David Guetta.
-- This project was based on our Week X tutorial.
+- This project was based on our Module 1 Week 3 tutorial.
 
 
 ## Contact
