@@ -1,6 +1,6 @@
 # HouseMusicProject1
 My project is a Python coded musical composition using the platform Earsketch. The genre of music is inspired by iconic house music artists David Guetta and Avicii.
-> Accessible link to Earsketch Prototype [_here_](https://earsketch.gatech.edu/earsketch2/).
+> Accessible link to Earsketch Prototype [_here_](https://earsketch.gatech.edu/earsketch2/?sharing=iXijhi2_wq-tEyv_Iyuscw).
 
 ## Table of Contents
 * [General Info](#general-information)
