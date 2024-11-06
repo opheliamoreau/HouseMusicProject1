@@ -39,7 +39,7 @@ Earsketch features used:
 
 
 ## Setup
-To play my coded music composition on Earsketch, click on the green button 'run' in the Code Editor section of the platform to run the script. Then click the green 'play button' in the Digital Audio Workstation section of the platform to listen to the final product.
+To play my coded music composition on Earsketch, click on the green button 'run' in the Code Editor section of the platform to run the script. Then click the green 'play button' in the Digital Audio Workstation section of the platform to listen to the final product. You can scroll down in the Code Editor section to view all the code used.
 
 ## Usage
 Examples of code used for my HouseMusicProject1 in Earsketch
