@@ -82,7 +82,7 @@ To do:
 - This project was based on our Module 1 Week 3 tutorial.
 
 
-## Contact
-Created by Ophelia Moreau, 14264232.
+## Completed By
+Ophelia Moreau, 14264232.
 
 ophelia.c.moreau@student.uts.edu.au
