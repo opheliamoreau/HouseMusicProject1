@@ -12,7 +12,7 @@ My project is a Python coded musical composition using the platform Earsketch. T
 * [Project Status](#project-status)
 * [Room for Improvement](#room-for-improvement)
 * [Acknowledgements](#acknowledgements)
-* [Created By](#created-by)
+* [Created By](#createdby)
 <!-- * [License](#license) -->
 
 
